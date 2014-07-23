@@ -38,7 +38,6 @@ public class HomeController {
 	/**
 	 * Test Git
 	 */
-	 */
 	}
 	
 }
