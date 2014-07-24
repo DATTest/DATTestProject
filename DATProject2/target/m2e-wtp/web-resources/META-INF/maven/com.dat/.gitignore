@@ -1,1 +1,3 @@
-/web/
+*/target/* 
+*/target/**
+target/
