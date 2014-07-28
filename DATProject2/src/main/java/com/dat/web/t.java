@@ -1,0 +1,8 @@
+package com.dat.web;
+
+public class t {
+
+	public static void main(String[] args) {
+		System.out.println("test");
+	}
+}
