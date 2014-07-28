@@ -7,5 +7,6 @@ public class BugFix {
 		System.out.println("Bug Fix 했어요!!");
 		System.out.println("Big Fix 했어요!!");
 
+
 	}
 }
