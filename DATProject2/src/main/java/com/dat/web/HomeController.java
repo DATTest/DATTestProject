@@ -40,6 +40,7 @@ public class HomeController {
 	 * develop_tm branch
 	 * TEstTest
 	 * Test1
+	 * Bug2 update
 	 */
 	}
 	
