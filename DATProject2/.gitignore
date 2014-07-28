@@ -1,0 +1,9 @@
+*class
+/bin
+/target
+/Users
+*/target/*
+*/target/**
+**/target/**
+/target/*
+/target/**
