@@ -32,6 +32,11 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+		<dependency>
+		        <groupId>org.quartz-scheduler</groupId>
+		        <artifactId>quartz-oracle</artifactId>
+		        <version>1.8.6</version>
+	      	</dependency>
 				
 		<!-- AspectJ -->
 		<dependency>
